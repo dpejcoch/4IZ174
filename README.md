@@ -2,7 +2,7 @@
 
 ## Požadavky na absolvování kurzu
 
-### Průběžné a zkouškový závěrečný test
+### Průběžné testy a zkouškový závěrečný test
 
 * 5 průběžných testů (2 otázky, 5 min), závěrečný test (10 otázek, 20 min). Každá otázka je hodnocena 5 body.
 * Otázky jsou náhodně vybrané z probraných témat na přednáškách.
@@ -21,26 +21,26 @@
 
 ### Úvod do řízení dat
 
-* 1. týden: Data, datové produkty, řízení a správa dat, řízení kvality dat a informací, Data Quality 1-2-3 (zjednodušený pohled na řízení kvality dat)
+1. Data, datové produkty, řízení a správa dat, řízení kvality dat a informací, Data Quality 1-2-3 (zjednodušený pohled na řízení kvality dat)
 
 ### Analýza současného stavu
 
-* 2. týden: Užití dat v rámci organizací, požadavky na kvalitu dat, úvod do teorie informačních systémů, úvod do Machine Learning
-* 3. týden: Příčiny a důsledky nekvalitních dat
-* 4. týden: Data Profiling a alternativní přístupy (analýza procesů, testování kontrol), Data Drift
-* 5. týden: Řízení metadat, datové katalogy, Feature Store
-* 6. týden: Validace dat, definice pravidel, vazba na metriky výkonnosti řízení dat
-* 7. týden: Data Quality Assessment
+2. Užití dat v rámci organizací, požadavky na kvalitu dat, úvod do teorie informačních systémů, úvod do Machine Learning
+3. Příčiny a důsledky nekvalitních dat
+4. Data Profiling a alternativní přístupy (analýza procesů, testování kontrol), Data Drift
+5. Řízení metadat, datové katalogy, Feature Store
+6. Validace dat, definice pravidel, vazba na metriky výkonnosti řízení dat
+7. Data Quality Assessment
 
 ### Implementace nápravných opatření
 
-* 8. týden: Prevence vzniku chyb, oprava stávajících chyb: standardizace, korekce, implementace kontrol
-* 9. týden: Imputace chybějících pozorování
-* 10. týden: Porovnávání a slučování záznamů
+8. Prevence vzniku chyb, oprava stávajících chyb: standardizace, korekce, implementace kontrol
+9. Imputace chybějících pozorování
+10. Porovnávání a slučování záznamů
 
 ### Monitorování datové kvality
 
-* 11. týden: Implementace monitoringu, kontinuální zvyšování kvality dat, příklady nástrojů pro podporu řízení kvality dat
+* 11. Implementace monitoringu, kontinuální zvyšování kvality dat, příklady nástrojů pro podporu řízení kvality dat
 
 ## Doporučená literatura
 
