@@ -4,7 +4,7 @@
 
 ### Průběžné testy a zkouškový závěrečný test
 
-* 5 průběžných testů (2 otázky, 5 min), závěrečný test (10 otázek, 20 min). Každá otázka je hodnocena 5 body.
+* 5 průběžných testů (2 otázky, 1 min), závěrečný test (10 otázek, 7 min). Každá otázka je hodnocena 5 body.
 * Otázky jsou náhodně vybrané z probraných témat na přednáškách.
 * Odpovědi na otázky jsou formou výběru ze seznamu možných, Ano/Ne, jednoduchý výpočet.
 * Průběžné testy jsou online formou, zůstávají aktivní 14 dní. Na úspěšné složení každého testu je pouze jeden pokus.
@@ -35,12 +35,12 @@
 ### Implementace nápravných opatření
 
 8. Prevence vzniku chyb, oprava stávajících chyb: standardizace, korekce, implementace kontrol
-9. Imputace chybějících pozorování
+9. Imputace chybějících pozorování, obohacování dat
 10. Porovnávání a slučování záznamů
 
 ### Monitorování datové kvality
 
-* 11. Implementace monitoringu, kontinuální zvyšování kvality dat, příklady nástrojů pro podporu řízení kvality dat
+11. Implementace monitoringu, kontinuální zvyšování kvality dat, příklady nástrojů pro podporu řízení kvality dat
 
 ## Doporučená literatura
 
