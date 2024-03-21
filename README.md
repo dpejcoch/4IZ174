@@ -1,5 +1,7 @@
 # 4IZ174 Kvalita dat (Datová kvalita 1-2-3)
 
+
+
 ## Požadavky na absolvování kurzu
 
 ### Průběžné testy a zkouškový závěrečný test
