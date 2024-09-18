@@ -85,7 +85,7 @@ Vyberte regulární výraz, který lze použít pro validaci školního emailu:
 * Prezentace k přednáškám
 * CHAPMAN, P., KHABAZA, T., SHEARER, C.: CRISP-DM 1.0 Step by step data mining guide. IBM, 2012. ftp://ftp.software.ibm.com/software/analytics/spss/support/Modeler/Documentation/14/UserManual/CRISP-DM.pdf
 * Materiály dostupné na www.dataquality.cz
-* PEJČOCH, D. Metody řešení problematiky neúplných dat [online]. 2011-01-13 Přednáška č. 4 v rámci Data Quality Tutorial. Dostupné pod odkazem: https://github.com/dpejcoch/4IZ562/tree/master/papers/Data_Inputation.pdf.
+* PEJČOCH, D. Metody řešení problematiky neúplných dat [online]. 2011-01-13 Přednáška č. 4 v rámci Data Quality Tutorial. Dostupné pod odkazem: https://github.com/dpejcoch/4IZ562/tree/master/papers/Data_Imputation.pdf.
 * PEJČOCH, D. Benchmark přístupů k Fuzzy Match / Merge. Sborník prací účastníků vědeckého semináře doktorského studia. Fakulta informatiky a statistiky VŠE. Praha 2009. ISBN 978-80-245-1524-3.
 * LOSHIN, D. The Practitioner’s Guide to Data Quality Improvement. Burlington: Morgan Kaufmann as inprint of Elsevier, 2011. ISBN 978-0-12-373717-5.
 * ENGLISH,  Larry P. Improving Data Warehouse and Business Information Quality: Methods for Reducing Costs and Increasing Profits. Wiley & Sons, 1999. xxvi, 518 s. ISBN-10 0-471-25383-9.
