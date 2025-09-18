@@ -1,6 +1,6 @@
 # 4IZ174 Kvalita dat (Datová kvalita 1-2-3)
 
-* Aktualizováno pro ZS 2024/2025
+* Aktualizováno pro ZS 2025/2026
 * Přednášky: pátek 7:30 - 9:00 CET
 * Konzultační hodiny individuálně na základě dohody s vyučujícím
 
@@ -12,10 +12,10 @@
 * Otázky jsou náhodně vybrané z probraných témat na přednáškách.
 * Odpovědi na otázky jsou formou výběru ze seznamu možných, Ano/Ne, jednoduchý výpočet.
 * Průběžné testy jsou online formou [https://www.classmarker.com], zůstávají aktivní 14 dní. Na úspěšné složení každého testu je pouze jeden pokus.
-* Závěrečný test je online formou, tudíž je možné se přihlásit kdykoliv mezi 2.1. a 2.2.. Na úspěšné složení testu je pouze jeden pokus.
+* Závěrečný test je online formou, tudíž je možné se přihlásit kdykoliv mezi 5.1. a 6.2.. Na úspěšné složení testu je pouze jeden pokus.
 * Alternativou je **ústní zkouška** v průběhu zkouškového období (diskuse nad čtyřmi vylosovanými otázkami po 25 bodech).
 * **Přípustné kombinace**: průběžné testy + závěrečný test, zkouška, neúspěšné průběžné testy + zkouška
-* **Bonusové body** kompenzující nedostatek bodů ze zkoušky nebo testů lze získat za **quizy** z přednášek (jednotky bodů za nejrychlejší správnou odpověď) a **esseje** (10 bodů).
+* **Bonusové body** kompenzující nedostatek bodů ze zkoušky nebo testů lze získat za **quizy** z přednášek (jednotky bodů za nejrychlejší správnou odpověď) nebo **mini-projekty** (po 10 bodech).
 
 ### Příklady otázek
 
@@ -44,34 +44,34 @@ Vyberte regulární výraz, který lze použít pro validaci školního emailu:
 
 ### Úvod do řízení dat
 
-1. 2024-09-20: Požadavky na úspěšné absolvování kurzu. Data, datové produkty, řízení a správa dat, řízení kvality dat a informací, Data Quality 1-2-3 (zjednodušený pohled na řízení kvality dat). 
+1. 2024-09-19: Požadavky na úspěšné absolvování kurzu. Data, datové produkty, řízení a správa dat, řízení kvality dat a informací, Data Quality 1-2-3 (zjednodušený pohled na řízení kvality dat). 
 
 ### Analýza současného stavu
 
-2. 2024-09-27: Seznámení s platformou Classmarker pro testy. Užití dat v rámci organizací, požadavky na kvalitu dat, úvod do teorie informačních systémů, úvod do Machine Learning
-3. 2024-10-04: Příčiny a důsledky nekvalitních dat
-4. 2024-10-11: Data Profiling a alternativní přístupy (analýza procesů, testování kontrol), Data Drift. **1. průběžný test**
-5. 2024-10-18: Řízení metadat, datové katalogy, Feature Store
-6. 2024-10-25: Validace dat, definice pravidel, vazba na metriky výkonnosti řízení dat
-7. 2024-11-01: Data Quality Assessment
+2. 2024-09-26: Seznámení s platformou Classmarker pro testy. Užití dat v rámci organizací, požadavky na kvalitu dat, úvod do teorie informačních systémů, úvod do Machine Learning
+3. 2024-10-03: Příčiny a důsledky nekvalitních dat
+4. 2024-10-10: Data Profiling a alternativní přístupy (analýza procesů, testování kontrol), Data Drift. **1. průběžný test**
+5. 2024-10-17: Řízení metadat, datové katalogy, Feature Store
+6. 2024-10-24: Validace dat, definice pravidel, vazba na metriky výkonnosti řízení dat
+7. 2024-10-31: Data Quality Assessment
 
 ### Implementace nápravných opatření
 
-8. 2024-11-08: *Inovační týden (výuka odpadá),* **2. průběžný test**
-9. 2024-11-15: Prevence vzniku chyb, oprava stávajících chyb: standardizace, korekce, implementace kontrol
-10. 2024-11-22: Imputace chybějících pozorování
-11. 2024-11-29: Obohacování dat, porovnávání a slučování záznamů
-12. 2024-12-06: Porovnávání a slučování záznamů, **3. průběžný test**
+8. 2024-11-07: *Inovační týden (výuka odpadá),* **2. průběžný test**
+9. 2024-11-14: Prevence vzniku chyb, oprava stávajících chyb: standardizace, korekce, implementace kontrol
+10. 2024-11-21: Imputace chybějících pozorování
+11. 2024-11-28: Obohacování dat, porovnávání a slučování záznamů
+12. 2024-12-05: Porovnávání a slučování záznamů, **3. průběžný test**
 
 ### Monitorování datové kvality
 
-13. 2024-12-13: Implementace monitoringu, kontinuální zvyšování kvality dat, příklady nástrojů pro podporu řízení kvality dat
+13. 2024-12-12: Implementace monitoringu, kontinuální zvyšování kvality dat, příklady nástrojů pro podporu řízení kvality dat
 
 ### Zkouškové období
 
-* 16.12. - 20.12. **ústní zkouška**
-* 2.1. - 2.2. **závěrečný test**, **ústní zkouška**
-* Vložení výsledků do INSIS musí proběhnout do půlnoci 2.2.
+* 15.12. - 20.12. **ústní zkouška**
+* 5.1. - 6.2. **závěrečný test**, **ústní zkouška**
+* Vložení výsledků do INSIS musí proběhnout do půlnoci 6.2.
 
 ## Povinná literatura
 
