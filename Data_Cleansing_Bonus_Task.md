@@ -181,6 +181,8 @@ You must submit the following files:
 - **File**: `data_quality_issues_report.pdf` or `data_quality_issues_report.docx`
 - Comprehensive documentation of all issues found
 - Include tables, charts, and specific examples
+- Remediation log
+- Data Quality metrics
 
 ### 3. Corrected Dataset
 - **File**: `customer_360_dataset_cleaned.csv`
