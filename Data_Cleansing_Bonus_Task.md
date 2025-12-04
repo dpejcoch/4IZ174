@@ -292,7 +292,7 @@ When cleaning the data, ensure adherence to these UK-specific formats:
 3. Ensure all files are properly named as specified
 4. Include a README.txt file with any special instructions
 
-**Due Date**: 31st December 2025
+**Due Date**: 15th January 2026
 
 ---
 
