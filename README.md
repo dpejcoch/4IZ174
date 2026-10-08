@@ -4,6 +4,8 @@
 * Přednášky: pátek 7:30 - 9:00 CET
 * Konzultační hodiny individuálně na základě dohody s vyučujícím
 
+---
+
 ## Požadavky na absolvování kurzu
 
 ### Průběžné testy a zkouškový závěrečný test
