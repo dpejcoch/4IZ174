@@ -44,29 +44,29 @@ Vyberte regulární výraz, který lze použít pro validaci školního emailu:
 
 ### Úvod do řízení dat
 
-1. 2024-09-19: Požadavky na úspěšné absolvování kurzu. Data, datové produkty, řízení a správa dat, řízení kvality dat a informací, Data Quality 1-2-3 (zjednodušený pohled na řízení kvality dat). 
+1. 2024-09-25: Požadavky na úspěšné absolvování kurzu. Data, datové produkty, řízení a správa dat, řízení kvality dat a informací, Data Quality 1-2-3 (zjednodušený pohled na řízení kvality dat). 
 
 ### Analýza současného stavu
 
-2. 2024-09-25: Seznámení s platformou Classmarker pro testy. Užití dat v rámci organizací, požadavky na kvalitu dat, úvod do teorie informačních systémů, úvod do Machine Learning
-3. 2024-10-02: Příčiny a důsledky nekvalitních dat
-4. 2024-10-09: Data Profiling a alternativní přístupy (analýza procesů, testování kontrol), Data Drift. **1. průběžný test**
-5. 2024-10-16: Řízení metadat, datové katalogy, Feature Store
-6. 2024-10-23: Validace dat, definice pravidel, vazba na metriky výkonnosti řízení dat
-7. 2024-10-30: Data Quality Assessment
+2. 2024-10-02: Seznámení s platformou Classmarker pro testy. Užití dat v rámci organizací, požadavky na kvalitu dat, úvod do teorie informačních systémů, úvod do Machine Learning
+3. 2024-10-09: Příčiny a důsledky nekvalitních dat
+4. 2024-10-16: Data Profiling a alternativní přístupy (analýza procesů, testování kontrol), Data Drift. **1. průběžný test**
+5. 2024-10-23: Řízení metadat, datové katalogy, Feature Store
+6. 2024-10-30: Validace dat, definice pravidel, vazba na metriky výkonnosti řízení dat
+7. 2024-11-06: *Inovační týden (výuka odpadá),* **2. průběžný test**
+8. 2024-11-13: Data Quality Assessment
 
 ### Implementace nápravných opatření
 
-8. 2024-11-06: *Inovační týden (výuka odpadá),* **2. průběžný test**
-9. 2024-11-13: Prevence vzniku chyb, oprava stávajících chyb: standardizace, korekce, implementace kontrol
-10. 2024-11-20: Imputace chybějících pozorování
-11. 2024-11-27: Obohacování dat, porovnávání a slučování záznamů
-12. 2024-12-04: Porovnávání a slučování záznamů, **3. průběžný test**
+
+9. 2024-11-20: Prevence vzniku chyb, oprava stávajících chyb: standardizace, korekce, implementace kontrol
+10. 2024-11-27: Imputace chybějících pozorování
+11. 2024-12-04: Obohacování dat, porovnávání a slučování záznamů
+12. 2024-12-11: Porovnávání a slučování záznamů, **3. průběžný test**
 
 ### Monitorování datové kvality
 
-13. 2024-12-11: Implementace monitoringu, Data Observability, kontinuální zvyšování kvality dat, příklady nástrojů pro podporu řízení kvality dat
-14. 2024-12-18: Augmented Data Quality, netradiční formy kvality dat, příprava na zkouškový test
+13. 2024-12-18: Implementace monitoringu, Data Observability, kontinuální zvyšování kvality dat, příklady nástrojů pro podporu řízení kvality dat. Augmented Data Quality, netradiční formy kvality dat, příprava na zkouškový test
 
 ### Zkouškové období
 * 4.1. - 7.2. **závěrečný test**, **ústní zkouška**
